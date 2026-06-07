@@ -1,0 +1,5 @@
+# build artifacts
+*.tar.gz
+
+# miner binary (downloaded at runtime by h-run.sh)
+alpha-miner/alpha-miner
