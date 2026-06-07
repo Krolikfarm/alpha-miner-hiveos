@@ -1,0 +1,3 @@
+# HiveOS runs these on Linux — always check out with LF line endings
+*.sh   text eol=lf
+*.conf text eol=lf
